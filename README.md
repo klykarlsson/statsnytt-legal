@@ -6,7 +6,7 @@ Statsnytt does not collect, store, or share any personal information.
 
 All news content is fetched from publicly available sections of official Swedish government websites. The app does not scrape behind logins, use APIs without permission, or alter any original content.
 
-The app uses the library SwiftSoup, more information here: # https://github.com/scinfu/SwiftSoup.
+The app uses the library SwiftSoup, more information here: https://github.com/scinfu/SwiftSoup.
 
 ## Contact
 
